@@ -1,0 +1,38 @@
+export const candidatesData = [
+  {
+    groupId: "46366948",
+    firstName: "Debolina",
+    lastName: "Bhattacharjee",
+    grade: "A4",
+    practice: "Bench",
+    email: "debolina.bhattacharjee@capgemini.com",
+    skills: ["React", "Node"],
+  },
+  {
+    groupId: "30018313",
+    firstName: "Anupama",
+    lastName: "Mallick",
+    grade: "A4",
+    practice: "Rotation",
+    email: "anupama.mallick@capgemini.com",
+    skills: ["Python", "SQL"],
+  },
+  {
+    groupId: "46368901",
+    firstName: "Mayur Sanjay",
+    lastName: "Shelake",
+    grade: "A5",
+    practice: "NGT",
+    email: "mayur-sanjay.shelake@capgemini.com",
+    skills: ["AWS", "React"],
+  },
+  {
+    groupId: "46368905",
+    firstName: "Prateek",
+    lastName: "Rathore",
+    grade: "A5",
+    practice: "Bench",
+    email: "prateek.rathore@capgemini.com",
+    skills: ["React"],
+  },
+];

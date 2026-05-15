@@ -1,0 +1,38 @@
+.natasha-bot {
+  position: fixed;
+  bottom: 20px;
+  right: 24px;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  background: #ffffff;
+  padding: 10px 14px;
+  border-radius: 18px;
+  box-shadow: 0 10px 30px rgba(0, 80, 255, 0.15);
+  cursor: pointer;
+  z-index: 999;
+  transition: transform 0.2s ease;
+}
+
+.natasha-bot:hover {
+  transform: translateY(-3px);
+}
+
+.natasha-bot img {
+  width: 44px;
+  height: 44px;
+  border-radius: 50%;
+  border: 2px solid #2563eb;
+}
+
+.natasha-info h4 {
+  margin: 0;
+  font-size: 14px;
+  color: #1e3a8a;
+  font-weight: 600;
+}
+
+.natasha-info span {
+  font-size: 12px;
+  color: #60a5fa;
+}
